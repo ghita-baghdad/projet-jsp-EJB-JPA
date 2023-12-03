@@ -12,14 +12,6 @@ Ce projet est une application Java EE basée sur Jakarta EE qui utilise des EJB 
 - **Servlets et JSP** : Pour la gestion des requêtes web et la création de pages dynamiques.
 - **WildFly** : Serveur d'application Jakarta EE open-source.
 
-## Configuration Requise
-
-Assurez-vous d'avoir installé les éléments suivants avant de déployer et exécuter l'application :
-
-- Serveur Jakarta EE compatible (par exemple, WildFly)
-- Environnement de développement Java (par exemple, JDK 8 ou supérieur)
-- IDE Java (par exemple, Eclipse, IntelliJ IDEA)
-
 ## Structure du Projet
 - ISICEJBEAR.ear: Archive Enterprise Application (EAR) regroupant les modules de l'application.
 - ISICEJBServer.jar: Archive Java contenant les EJB et les services.
@@ -100,8 +92,9 @@ L'application offre les fonctionnalités suivantes :
 
 - Filtrage par ville :
 
+![image](https://github.com/ghita-baghdad/projet-jsp-EJB-JPA/assets/147449053/e7c05a4f-e8ee-436d-868e-e63d3bd1961f)
 
-
+![image](https://github.com/ghita-baghdad/projet-jsp-EJB-JPA/assets/147449053/2b3ada8f-6d93-4418-a127-34f12a97d0c9)
 
 
 ## L'utilisateur ne pourra jamais supprimer une ville affectée à des hôtels :
@@ -113,7 +106,13 @@ L'application offre les fonctionnalités suivantes :
 ![image](https://github.com/ghita-baghdad/projet-jsp-EJB-JPA/assets/147449053/17363609-e8ce-45f9-ade1-1940d6bd8052)
 
 
+## Configuration Requise
 
+Assurez-vous d'avoir installé les éléments suivants avant de déployer et exécuter l'application :
+
+- Serveur Jakarta EE compatible (par exemple, WildFly)
+- Environnement de développement Java (par exemple, JDK 8 ou supérieur)
+- IDE Java (par exemple, Eclipse, IntelliJ IDEA)
 
 
 
